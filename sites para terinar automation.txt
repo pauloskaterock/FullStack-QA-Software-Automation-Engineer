@@ -1,0 +1,49 @@
+https://demo.automationtesting.in/Register.html
+
+http://newtours.demoaut.com
+http://the-internet.herokuapp.com/
+https://automacaocombatista.herokuapp.com/
+
+https://s1.demo.opensourcecms.com/s/44
+
+https://phptravels.com/demo/
+
+	http://automationpractice.com/index.php
+
+	http://automationpractice.com/index.php
+
+https://www.saucedemo.com/
+
+http://demo.testfire.net/login.jsp
+
+http://demo.automationtesting.in/Register.htmls
+
+http://www.aprendendotestar.com.br/treinar-automacao.php
+
+TestProject ( https://testproject.io/ ): 
+
+TestProject é uma plataforma gratuita de automação de teste de ponta a ponta que permite criar e executar testes para aplicativos Web, móveis e de API. Ele oferece uma variedade de recursos e integrações integrados para ajudá-lo a praticar diferentes técnicas de teste.
+
+Selenium Easy ( https://www.seleniumeasy.com/ ): 
+
+O Selenium Easy fornece uma coleção de tutoriais, exemplos e exercícios gratuitos para aprender e praticar o Selenium WebDriver, junto com outras estruturas de teste como TestNG e JUnit. Abrange vários aspectos do teste de aplicativos da web.
+
+Guru99 ( https://www.guru99.com/ ): 
+
+Guru99 oferece uma vasta gama de tutoriais e recursos gratuitos sobre teste de software, incluindo teste manual, teste de automação, teste de desempenho e muito mais. Você pode acessar seus tutoriais, vídeos e exercícios práticos para aprimorar suas habilidades de teste.
+
+Ministry of Testing ( https://www.ministryoftesting.com/ ): 
+
+O Ministry of Testing é uma plataforma voltada para a comunidade que oferece diversos recursos gratuitos, incluindo artigos, webinars, fóruns e eventos online. Abrange uma ampla gama de tópicos de teste e oferece oportunidades de aprendizado e prática.
+
+TutorialsPoint ( https://www.tutorialspoint.com/software_testing/index.htm ): 
+
+TutorialsPoint fornece tutoriais e materiais gratuitos sobre teste de software, abrangendo técnicas de teste manual e de automação. Ele inclui explicações detalhadas, exemplos e exercícios práticos para ajudá-lo a aprimorar seu conhecimento sobre testes.
+
+Testing Exercises ( https://testingexercises.com/ ): 
+
+Testing Exercises é uma coleção de exercícios práticos gratuitos para diferentes habilidades de teste, incluindo design de teste, relatório de bugs, automação de teste e muito mais. Ele oferece cenários do mundo real para melhorar suas habilidades de teste.
+
+GitHub ( https://github.com/ ): 
+
+GitHub é uma plataforma de hospedagem de código que oferece um vasto repositório de projetos de código aberto. Você pode explorar e contribuir com projetos relacionados a testes, acessar código de amostra e aprender com implementações de automação de teste do mundo real.

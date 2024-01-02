@@ -1,0 +1,11 @@
+BDD
+TDD
+RSPEC
+CUCUMBER
+CAPYBARA
+RUBY
+GHERKIN
+POSTMAN
+Docker
+selenium
+jenkins

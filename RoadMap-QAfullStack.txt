@@ -1,0 +1,47 @@
+Sympla Cursos
+
+Ruby 
+	Ruby. Desbloqueie o medo de Codar
+	Capybara. Manipule elementos da Web com Ruby
+	Detonando no Cucumber, Capybara e RSpec
+	Continuous Testing com Jenkins e Ruby
+	Appium e Cucumber para Android Apps
+
+Outras Linguagens
+
+		Formação DevTester com Cypress e Vue.js (BOOTCAMP)
+		Selenide: Automação para WebApps em Java
+		Testando API de um Microserviço com Node.js
+		DevOps for Testers com Jenkins e Node.js
+		Coypu: Automação para WebApps em C#
+		Robocamp 6 (BOOTCAMP)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+QAfullstack
+
+https://linktr.ee/qafullstack
+Sequencia ideal para estudo do programa QA FullStack pela QAninja
+
+Ruby. Desbloqueie o medo de Codar
+Capybara. Manipule elementos da Web com Ruby
+Detonando no Cucumber, Capybara e RSpec
+Continuous Testing com Jenkins e Ruby
+Testando API de um Microserviço com Node.js
+DevOps for Testers com Jenkins e Node.js
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+QAFullStack
+
+		Formação DevTester com Cypress e Vue.js (BOOTCAMP)
+		Selenide: Automação para WebApps em Java
+		Testando API de um Microserviço com Node.js
+		DevOps for Testers com Jenkins e Node.js
+		Coypu: Automação para WebApps em C#
+		Robocamp 6 (BOOTCAMP)
+
+
+
+
+

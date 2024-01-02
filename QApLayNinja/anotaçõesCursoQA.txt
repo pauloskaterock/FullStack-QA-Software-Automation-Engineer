@@ -1,0 +1,16 @@
+Anotações curso QANINJA 
+
+*page.driver.browser > chama o navegador
+*eql > seignifica iguais
+*  accept_prompt > comandop do capybara para aceiatr o prompt
+iframe contem um link no html para uma cesso a outra page
+within_frame > usado para acessar um iframe
+configurar URL padrao > no visual use o find in folder -replace- ir no spec_helper - config.app_host = www.URLpadrao do sistema.com
+redimensionando a janela do navegador > dentro do spec_helperconfig.before(:each) > colocar a configuração (page.current_window.resize_to(1200,600)
+obtendo screeshoots > colocar a configuração PAGE.SAVE_SCREENSHOT('LOG/NOME_DO_SCREENSHOT.PNG') ou automatizado no final do codigo colocar o after(:each) do |e| puts e.desccription > ele automatiza entao depois de cada cenario eu obtenho um screnshot
+executando testes em headless > navegador invisivel > apenas colocar o comando (config.default_driver = :selenium_chrome_headless) > spec_helper
+
+
+DOCKER 
+
+CRIANDO UM CONTEINER -DOCKER NETWORK CREATE --DRIVER BRIDGE SKYNET

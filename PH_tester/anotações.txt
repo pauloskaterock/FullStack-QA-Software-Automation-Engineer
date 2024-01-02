@@ -1,0 +1,16 @@
+CONFIGURAÇÃO PARA INICIAR UM PROJETO DE AUTOMAÇÃO
+
+
+
+
+
+BUNDLE INIT >>>> inica uma estrutura em ruby
+
+BUNDLE INSTALL >>>>>> instala as dependencias
+
+RSPEC --INIT  >>>>>>  cria um projeto RSPEC
+
+
+RELATORIO DE SAIDA EM HTML
+      RSPEC --FORMAT HTML --OUT REPORT.HTML
+

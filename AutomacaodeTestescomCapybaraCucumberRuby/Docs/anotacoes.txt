@@ -1,0 +1,8 @@
+gem install cucumber = instalar e baixar  o cucumber
+gem install rspec
+
+cucumber --init gera uma arquitetura para automação
+
+configurar o gemfile
+
+cucmber para rodar o cenario 
